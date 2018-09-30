@@ -2,6 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
+    <AssemblyName>MessageBroker</AssemblyName>
+    <RootNamespace>MessageBroker</RootNamespace>
   </PropertyGroup>
 
 </Project>

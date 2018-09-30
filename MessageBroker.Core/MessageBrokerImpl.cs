@@ -1,4 +1,4 @@
-﻿namespace MessageBroker.Core
+﻿namespace MessageBroker
 {
     using System;
     using System.Collections.Generic;
